@@ -1,1 +1,1 @@
-# myfirstproject
+My sample project for learning
